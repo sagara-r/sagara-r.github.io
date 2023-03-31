@@ -84,6 +84,10 @@ border-bottom:2px solid #999999;
 h3 {
 padding:20px 0px 0px 7px;
 }
+th {
+font-weight:normal;
+}
+
 .green {
 color:#008800;
 font-weight:bold;
